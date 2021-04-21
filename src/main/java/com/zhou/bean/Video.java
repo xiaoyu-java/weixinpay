@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * @Author：周申宇
  * @Date:2021/4/5 20:34
- * @Decription:  视屏实体
+ * @Decription:  视屏实体111g
  */
 @Data
 public class Video implements Serializable {
