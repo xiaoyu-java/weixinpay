@@ -44,7 +44,7 @@ public class VideoOrderServiceImpl implements VideoOrderService {
     /**
      * 下单操作
      * 未来版本 优惠卷功能、微信支付、风控用户检查、生成订单基础信息、生成支付信息
-     * @return
+     * @return11
      */
     @Override
     @Transactional(propagation = Propagation.REQUIRED)//默认隔离级别

@@ -3,7 +3,7 @@ package com.zhou.bean;
 /**
  * @Auther: 周申宇
  * @Date: 2021/4/7 15:26
- * @Description:  数据传输对象（后端输出对象）
+ * @Description:  数据传输对象（后端输出对象）1
  */
 public class Dto<T>{
     private String success; //判断系统是否出错做出相应的true或者false的返回，与业务无关，出现的各种异常
